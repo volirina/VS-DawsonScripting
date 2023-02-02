@@ -1,5 +1,5 @@
 # VS-DawsonScripting
-Version Control Assignment
+Version Control Assignment - Iryna V
 
 Assignment guideline
 
